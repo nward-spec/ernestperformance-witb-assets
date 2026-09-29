@@ -29,3 +29,4 @@ Columns: date | player | event | theme | outro | published
 classic, sand, contour, blueprint, sunrise, bunker, breeze, zone, dusk, forest, lake, slate.
 
 Dark: classic, contour, blueprint, sunrise, lake, slate, breeze, dusk, forest. Light: sand, bunker, zone.
+| 2026-09-29 | - | Gotterup pack not rebuilt: no way to move photo pixels into the render container this run | - | - | **no** |
