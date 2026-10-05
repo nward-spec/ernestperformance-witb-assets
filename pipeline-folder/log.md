@@ -16,16 +16,22 @@ Columns: date | player | event | theme | outro | published
 | 2026-09-07 | - | no event | - | - | - |
 | 2026-09-14 | - | no event | - | - | - |
 | 2026-09-21 | J.J. Spaun | BMW PGA Championship (DP World) | slate | 2 | yes |
-| 2026-09-28 | Chris Gotterup | Presidents Cup standout | zone | 3 | **no, not published** |
+| 2026-09-28 | Chris Gotterup | Presidents Cup standout | zone | 3 | yes, published 2026-09-29 |
 
 ## Reading it
 
+- **Tour eligibility (Nick, 2026-10-05)**: DP World Tour winners count automatically until the new PGA TOUR season starts. Do not ask for a weekly DP World Tour opt-in during this period. Keep the normal winner verification and six-month player rule. When the new PGA TOUR season starts, this temporary inclusion expires.
+
 - **Six-month rule**: do not repeat a player listed in the last six months, whether or not that week published.
-- **Theme**: never repeat the previous *published* week's theme. Vary dark and light. `bunker` is rested. A theme on an unpublished row is NOT spent, so `zone` and `forest` have still never published.
-- **Outro**: never repeat the previous *published* week's variant. An unpublished row does not spend the slot, so the next published week is **option 3**.
+- **Theme**: never repeat the previous *published* week's theme. Vary dark and light. `bunker` is rested. A theme on an unpublished row is NOT spent. `zone` published with Gotterup on 29 September; `forest` remains unused.
+- **Outro**: never repeat the previous *published* week's variant. An unpublished row does not spend the slot. Gotterup used option 3 on 29 September, so the next published week must use a different option.
 
 ## Themes available
 
 classic, sand, contour, blueprint, sunrise, bunker, breeze, zone, dusk, forest, lake, slate.
 
 Dark: classic, contour, blueprint, sunrise, lake, slate, breeze, dusk, forest. Light: sand, bunker, zone.
+
+## Confirmed follow-ups
+
+- 2026-10-05: Nick confirmed he accepted the Instagram collaborations for the Spaun and Gotterup posts. No outstanding collaboration acceptance for those posts.
