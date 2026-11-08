@@ -17,6 +17,7 @@ Columns: date | player | event | theme | outro | published
 | 2026-09-14 | - | no event | - | - | - |
 | 2026-09-21 | J.J. Spaun | BMW PGA Championship (DP World) | slate | 2 | yes |
 | 2026-09-28 | Chris Gotterup | Presidents Cup standout | zone | 3 | yes, published 2026-09-29 |
+| 2026-11-09 | - | no event finished (WWT Championship in round 3; Novak, Mexico Open 1 Nov, unbuilt) | - | - | - |
 
 ## Reading it
 
